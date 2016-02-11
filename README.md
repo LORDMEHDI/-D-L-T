@@ -1,4 +1,4 @@
-# [TeleTard](https://telegram.me/TeleTard) 
+# [ＲａDｉＣａL ＢｏT](https://telegram.me/TeleTard) 
 **An advance and powerful Administration bot based on [yagop/telegram-bot](https://github.com/yagop/telegram-bot) licensed under [GNU General public License](https://github.com/TardTeam/TeleTard/blob/master/LICENSE)**
 # Features
 
@@ -379,7 +379,7 @@ Join our bot development group by sending `/join 80263152` to [@TeleTard](https:
 _If you are using /join service for first time you have to send it 11 time ( Bot is spam reported )_
 
 # Special thanks to
-[@mahdi17177](https://telegram.me/mahdi17177)
+[MaStEr FeRi]([Telegram](https://telegram.me/Ferisystem))
 
 For Managing [@TeleTard](https://telegram.me/TeleTard) on telegram
 
@@ -389,9 +389,10 @@ For Managing [@TeleTard](https://telegram.me/TeleTard) on telegram
 
 # Our team !
 
+[Lord Mehdi](https://github.com/LordMehdi) ([Telegram](https://telegram.me/mahdi17177))
+
 [MaStEr FeRi](https://github.com/Ferisystem) ([Telegram](https://telegram.me/Ferisystem))
 
-[Lord Mehdi](https://github.com/LordMehdi) ([Telegram](https://telegram.me/mahdi17177))
 
 # Our cahnnel !
 
